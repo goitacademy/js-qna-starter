@@ -1,1 +1,49 @@
-# js-qna-starter
+# Структура
+
+### Module 1: Змінні та типи. Основи функцій
+
+- [Lesson 01](module-1)
+
+### Module 2: Розгалуження і цикли
+
+- [Lesson 02](module-2)
+
+### Module 3: Масиви і функції
+
+- [Lesson 03](module-3)
+
+### Module 4: Об’єкти
+
+- [Lesson 04](module-4)
+
+### Module 5: Перебираючі методи масивів
+
+- [Lesson 05](module-5)
+
+### Module 6: Контекст, прототипи та класи
+
+- [Lesson 06](module-6)
+
+### Module 7: DOM і події
+
+- [Lesson 07](module-7)
+
+### Module 8: Делегування, бібліотеки та деструктуризація
+
+- [Lesson 08](module-8)
+
+### Module 9: Модульність коду і bundler Vite
+
+- [Lesson 09](module-9)
+
+### Module 10: Асинхронний JavaScript і проміси
+
+- [Lesson 10](module-10)
+
+### Module 11: HTTP-запити і взаємодія з бекендом
+
+- [Lesson 11](module-11)
+
+### Module 12: Синтаксис async/await. Пагінація
+
+- [Lesson 12](module-12)
