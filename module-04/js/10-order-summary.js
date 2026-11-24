@@ -1,5 +1,5 @@
 /** Задача 10. Підсумок замовлення.
- * createOrderSummary(customer,...items)
+ * createOrderSummary(customer, ...items)
  * повертає {customer, count, total};
  * customer - Імʼя замовника
  * count - кількість замовлень
@@ -12,3 +12,11 @@
 function createOrderSummary(customer, ...items) {
   /* Підрахуй і поверни об'єкт. */
 }
+
+console.log(
+  createOrderSummary(
+    'Оля',
+    { price: 100, quantity: 2 },
+    { price: 50, quantity: 1 }
+  )
+);
